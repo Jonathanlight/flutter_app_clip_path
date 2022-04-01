@@ -1,0 +1,2 @@
+# flutter_app_clip_path
+flutter_app_clip_path
